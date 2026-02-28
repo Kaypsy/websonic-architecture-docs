@@ -10,9 +10,9 @@ Projet de refonte architecturale pour réduire les cycles de développement de 7
 
 ### 🚧 Travail en cours
 - `02-travail-en-cours` : 
-- Conception de la nouvelle architecture
-- Évolution du framework
-- RACI, Kanban, Gantt, Budget
+-- Conception de la nouvelle architecture
+-- Évolution du framework
+-- RACI, Kanban, Gantt, Budget
 
 ### 📎 Annexes
 - `03-annexes/sources-diagrammes/` : Fichiers sources (.drawio, .png)
