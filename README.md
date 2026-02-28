@@ -6,22 +6,23 @@ Projet de refonte architecturale pour réduire les cycles de développement de 7
 ## 📁 Structure du repository
 
 ### 🎯 Livrables finaux
-- `01-livrables/` : Les 3 documents PDF livrables
+- `01-artefacts/` : Les 3 documents PDF livrables
 
 ### 🚧 Travail en cours
-- `02-travail-en-cours/architecture/` : Conception de la nouvelle architecture
-- `02-travail-en-cours/framework/` : Évolution du framework
-- `02-travail-en-cours/cadrage/` : RACI, Kanban, Gantt, Budget
+- `02-travail-en-cours` : 
+- Conception de la nouvelle architecture
+- Évolution du framework
+- RACI, Kanban, Gantt, Budget
 
 ### 📎 Annexes
 - `03-annexes/sources-diagrammes/` : Fichiers sources (.drawio, .png)
 - `03-annexes/sources-gantt/` : Fichier source du Gantt
-- `03-annexes/references/` : Documentation de référence
 
 ## 👥 Parties prenantes
 - **Cathy** - CTO
 - **Jeanne** - CEO
 - **Louis** - COO
+- **Louis Z** - AL
 - **Agnès** - Responsable équipe principale
 - **Tim** - Responsable équipes secondaires
 
